@@ -1,2 +1,2 @@
-# Apps-using-ai-api
-I will make several apps using ai api.
+#Gernate
+I will make several apps using ai api, nft and some things about blockchain. I will upload something about generate technology
